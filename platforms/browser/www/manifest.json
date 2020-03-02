@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "hybrid-app2",
+  "short_name": "hybrid-app2",
+  "version": "com.ta.strayer",
+  "description": "Push sample application that receives push notifications.",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#ee6e73"
+}

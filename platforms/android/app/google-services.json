@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "174519851528",
+    "firebase_url": "https://cap-pwa.firebaseio.com",
+    "project_id": "cap-pwa",
+    "storage_bucket": "cap-pwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174519851528:android:a055fc65ac074d8639cfbd",
+        "android_client_info": {
+          "package_name": "com.ta.strayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174519851528-1t2jcr1u19s0s7barmurc7ao1r8pi2c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0Lx3oaTp1aGsXJpnARih7JjJOLCtijc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174519851528-1t2jcr1u19s0s7barmurc7ao1r8pi2c0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174519851528-tl6fajgppr2rt4a8k6t8lftqfduudien.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TADigital.CapellaDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
