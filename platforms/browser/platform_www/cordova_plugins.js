@@ -37,7 +37,8 @@ module.exports.metadata =
 // TOP OF METADATA
 {
     "cordova-plugin-dialogs": "2.0.2",
-    "phonegap-plugin-push": "2.3.0"
+    "phonegap-plugin-push": "2.3.0",
+    "cordova-plugin-whitelist": "1.3.4"
 }
 // BOTTOM OF METADATA
 });

@@ -12,6 +12,9 @@
     },
     "phonegap-plugin-push": {
       "PACKAGE_NAME": "com.ta.strayer"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ta.strayer"
     }
   },
   "dependent_plugins": {}
